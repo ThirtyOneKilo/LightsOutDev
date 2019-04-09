@@ -68,6 +68,10 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\AI\Framework.cs" />
+    <Compile Include="Assets\Scripts\Healths\Hazard.cs" />
+    <Compile Include="Assets\Scripts\Healths\HealthPack.cs" />
+    <Compile Include="Assets\Scripts\Healths\PlayerHealth.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/GitHub/LightsOutDev/Lights Out/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
